@@ -256,7 +256,7 @@ input[type="submit"]:hover {
 }
 
 .btn:hover {
-  background: #0056b3;
+  background: rgba(39, 64, 139, 0.85);
 }
 
 
