@@ -307,12 +307,12 @@ input[type="submit"]:hover {
     margin: 30px 15px;
   }
 
-  .portfolio_3, .portfolio_2 {
+  .portfolio_3{
     width: 95%;
     height: auto;
   }
 
-  .txt_P3, .txt_P2, .txt_about, .txt_mehr  {
+  .txt_P3, .txt_about, .txt_mehr  {
     font-size: 1em;
     text-align: center;
     margin: 0 auto;
